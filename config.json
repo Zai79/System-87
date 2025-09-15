@@ -1,0 +1,16 @@
+{
+  "colorRoles": [
+    {"emoji":"🗻","roleId":"123456789012345678","label":"Mirage"},
+    {"emoji":"🌹","roleId":"223456789012345678","label":"Scarlet"},
+    {"emoji":"🌸","roleId":"323456789012345678","label":"Petal"},
+    {"emoji":"🌼","roleId":"423456789012345678","label":"Bloom"}
+  ],
+  "welcome": {
+    "channelId": "روم_الترحيب",
+    "message": "أهلاً {user} في سيرفر {server}!"
+  },
+  "prayers": {
+    "channelId": "روم_الأدعية",
+    "interval": 21600000
+  }
+}
